@@ -231,9 +231,8 @@
         return str;
     };
 
-    var botCreator = "Matthew (Yemasthui)";
-    var botMaintainer = "Benzi (Quoona)"
-    var botCreatorIDs = ["3851534", "4105209"];
+    var botCreator = "Semisi (SLICKnSWIFT)";
+    var botMaintainer = "Benzi (Quoona)";
 
     var basicBot = {
         version: "2.8.9",
